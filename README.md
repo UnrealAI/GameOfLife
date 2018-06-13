@@ -61,4 +61,32 @@ Interaction Types:
 Once this is all said and done, we will have a little ecosystem we can spin up whenever we get bored!
 We can share the code, and let people experiment with their own little ecosystems.
 
-asdfasdfasdf
+here is some stuff!
+
+- add age
+- change calculation of species
+
+# Markov Decision Process
+
+list of inputs:
+- ray casted eyes 8 directions
+
+list of actions:
+- move
+  - up
+  - down
+  - left
+  - right
+- attack
+- defend
+- mate
+- eat
+
+reward function
+
+- calories
+- health
+- lineage(to increase cooperation)
+
+- learn behavior vs innate behavior
+- color individual by species
